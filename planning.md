@@ -7,7 +7,7 @@ What features do I want my app to have?
     Signup
     Login
     Image display
-    Message change on login (example: "Please login in" to "Hello Michael")
+    Message change on login (example: "Please login" to "Hello Michael")
 
 What am I going to need for each feature?
 
